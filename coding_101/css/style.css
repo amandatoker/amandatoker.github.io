@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+
+
+body {
+  background-color: #b3b3cc;
+  color: #33334d;
+}
+
+h1 {
+  color: #33334d;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+.fashionrelated{
+  color: pink;
+}
